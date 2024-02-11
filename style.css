@@ -173,8 +173,9 @@ header a:hover{
 }
 
 .message1 img{
-    height: 200px;
+    height: 150px;
     max-height: 250px;
+    max-width: 1000px;
     width: 100%;
     margin-right: 10px;
     display:block;
